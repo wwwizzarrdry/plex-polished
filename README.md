@@ -5,8 +5,8 @@ Plex Web: Dark Theme
 
 A dark theme for Plex Web client.
 - Full screen background images
-- Box-Shadow on movie postsrs for depth
-- Hover effects for articulatio
+- Box-Shadow on movie posters for depth
+- Hover effects for UI articulation
 - Ken Burns effect on backgrounds
 - Dark gradient global background (© YouTube TV)
 
