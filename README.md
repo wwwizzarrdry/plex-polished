@@ -1,7 +1,8 @@
 # plex-polished
-Plex Web theme
+Plex Web: Dark Theme
 
 A dark theme for Plex Web client.
+
 *Full screen background images
 *Box-Shadow on movie postsrs for depth
 *Hover effects for articulatio
