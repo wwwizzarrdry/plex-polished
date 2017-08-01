@@ -1,6 +1,8 @@
 # plex-polished
 Plex Web: Dark Theme
-![alt text](https://raw.githubusercontent.com//plex-polished/154204_after.png)
+
+![Preview](https://raw.githubusercontent.com//plex-polished/154204_after.png)
+
 A dark theme for Plex Web client.
 - Full screen background images
 - Box-Shadow on movie postsrs for depth
